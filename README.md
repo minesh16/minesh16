@@ -4,7 +4,7 @@
 
 Applied AI leader with **15+ years** across technology transformation, advanced analytics, and enterprise Data & AI — bridging what's technically possible with what drives commercial outcomes at scale.
 
-Currently **Data & AI Principal** at **Telstra InfraCo**, leading the **Advanced Analytics Centre of Excellence** and owning the **InfraCo 3-year AI Roadmap**.
+Currently **Data & AI Principal** at **Telstra InfraCo**, leading the **Advanced Analytics Centre of Excellence**.
 
 ---
 
