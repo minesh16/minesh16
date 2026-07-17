@@ -70,7 +70,6 @@ Currently **Data & AI Principal** at **Telstra InfraCo**, leading the **Advanced
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Minesh_Chunawala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minesh-chunawala/)
-[![Website](https://img.shields.io/badge/Website-minesh.com.au-1a2e4a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://minesh.com.au)
 [![Email](https://img.shields.io/badge/Email-minesh.au@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minesh.au@gmail.com)
 
 ---
